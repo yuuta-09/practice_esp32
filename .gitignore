@@ -1,0 +1,6 @@
+.cache/
+build/
+secrets.h
+.vscode/
+.devcontainer/
+sdkconfig
